@@ -23,6 +23,9 @@ Currently, I focus on projects that automate repetitive tasks and generate repor
 Cleans raw Excel data and generates automated reports with visualizations and charts.  
 ➡️ [View the project](https://github.com/Dirza1/Automated_Sales_report)  
 
+🔧 **Automated KPI dashbord generation from multiple sales reports**  
+Generates a KPI overview and pictures to be used in sales dashbords.  
+➡️ [View the project](https://github.com/Dirza1/Automated_KPI_Generation)  
 *(More projects will be added soon as my portfolio grows!)*
 
 ---
