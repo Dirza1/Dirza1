@@ -26,6 +26,11 @@ Cleans raw Excel data and generates automated reports with visualizations and ch
 🔧 **Automated KPI dashbord generation from multiple sales reports**  
 Generates a KPI overview and pictures to be used in sales dashbords.  
 ➡️ [View the project](https://github.com/Dirza1/Automated_KPI_Generation)  
+
+🔧 **TimeTally**  
+A full localy hoasted software package for time and finace registartion for small buisnesses.  
+➡️ [View the demo project](https://github.com/Dirza1/TimeTally-Demo)  
+Contact me for information and pricing on the full package
 *(More projects will be added soon as my portfolio grows!)*
 
 ---
